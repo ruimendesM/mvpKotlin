@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.utils
+package com.taquente.mvpkotlin.utils
 
 import android.support.test.espresso.PerformException
 import android.support.test.espresso.UiController

@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.utils
+package com.taquente.mvpkotlin.utils
 
 import android.support.v7.widget.RecyclerView
 import android.view.View

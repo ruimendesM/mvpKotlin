@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.conditions
+package com.taquente.mvpkotlin.conditions
 
 /**
  * Interface for Conditions

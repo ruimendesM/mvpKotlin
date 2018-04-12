@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.conditions
+package com.taquente.mvpkotlin.conditions
 
 /**
  * Condition implementation where at least one of the conditions should be matched.

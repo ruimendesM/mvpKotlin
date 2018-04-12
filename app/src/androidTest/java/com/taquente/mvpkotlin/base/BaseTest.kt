@@ -1,8 +1,8 @@
-package com.taquente.hwcodechallenge.base
+package com.taquente.mvpkotlin.base
 
 import android.support.test.rule.ActivityTestRule
 import android.support.v7.app.AppCompatActivity
-import com.taquente.mvpkotlin.base.BaseActivityWithFragment
+import com.taquente.mvpkotlin.dependency.UITestApplicationClass
 import org.junit.Before
 import org.junit.Rule
 

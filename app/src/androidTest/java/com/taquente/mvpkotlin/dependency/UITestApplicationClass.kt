@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.dependency
+package com.taquente.mvpkotlin.dependency
 
 import android.app.Activity
 import android.app.Application

@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.base
+package com.taquente.mvpkotlin.base
 
 import android.support.annotation.StringRes
 import android.support.test.espresso.Espresso.onView
@@ -7,8 +7,9 @@ import android.support.test.espresso.action.ViewActions.swipeRight
 import android.support.test.espresso.assertion.ViewAssertions.matches
 import android.support.test.espresso.matcher.ViewMatchers.*
 import android.view.View
-import com.taquente.hwcodechallenge.conditions.ViewCondition
-import com.taquente.hwcodechallenge.utils.UITestUtils.waitForCondition
+import com.taquente.mvpkotlin.base.BaseTest
+import com.taquente.mvpkotlin.conditions.ViewCondition
+import com.taquente.mvpkotlin.utils.UITestUtils.waitForCondition
 import org.hamcrest.Matchers.allOf
 
 /**

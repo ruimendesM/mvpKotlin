@@ -1,8 +1,8 @@
-package com.taquente.hwcodechallenge.utils
+package com.taquente.mvpkotlin.utils
 
-import com.taquente.hwcodechallenge.conditions.AnyCondition
-import com.taquente.hwcodechallenge.conditions.Condition
-import com.taquente.hwcodechallenge.conditions.EveryCondition
+import com.taquente.mvpkotlin.conditions.AnyCondition
+import com.taquente.mvpkotlin.conditions.Condition
+import com.taquente.mvpkotlin.conditions.EveryCondition
 
 object UITestUtils {
 

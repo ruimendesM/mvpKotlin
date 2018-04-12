@@ -1,10 +1,10 @@
-package com.taquente.hwcodechallenge.conditions
+package com.taquente.mvpkotlin.conditions
 
 import android.app.Activity
 import android.support.test.InstrumentationRegistry
 import android.support.test.espresso.util.TreeIterables
 import android.view.View
-import com.taquente.hwcodechallenge.dependency.UITestApplicationClass
+import com.taquente.mvpkotlin.dependency.UITestApplicationClass
 import org.hamcrest.Matcher
 import org.hamcrest.StringDescription
 

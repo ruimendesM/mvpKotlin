@@ -1,4 +1,4 @@
-package com.taquente.hwcodechallenge.dependency
+package com.taquente.mvpkotlin.dependency
 
 import com.taquente.mvpkotlin.base.ApplicationClass
 import com.taquente.mvpkotlin.base.ApplicationModule
